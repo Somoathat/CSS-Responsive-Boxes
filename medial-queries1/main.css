@@ -1,3 +1,13 @@
 body {
   background: blanchedalmond;
 }
+
+container {
+  color: blue;
+  background-attachment: fixed;
+  width: 0%;
+  height: auto;
+  flex: auto;
+  
+
+}
